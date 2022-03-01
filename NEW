@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style></style>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <h2>facebook</h2>
+        <p>By procceding, you agree to <a href="MTN's Terms">MTN's Terms</a>, which includes letting Facebook request and receive your phone number. <a href="Change settings">Change settings</a></p>
+        <h3>Phone number or email address</h3>
+        <input>
+        <br>
+        <h3>Password</h3>
+        <input>
+
+    </body>
+</html>
